@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+venv/
+model/
+*.db
+n8n_data/
