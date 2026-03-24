@@ -1,0 +1,19 @@
+# Virtual environments
+model/.venv/
+
+# Training checkpoints (too large)
+model/results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Databases & logs
+*.db
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.log
+n8n_data/
+
