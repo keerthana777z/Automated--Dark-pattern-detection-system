@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+pandas
+plotly
+selenium
+beautifulsoup4
+scikit-learn
+webdriver-manager
+transformers
+torch
